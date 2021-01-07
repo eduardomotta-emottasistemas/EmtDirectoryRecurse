@@ -1,3 +1,6 @@
+// Development by: Eduardo Motta - EMotta Sistemas - emotta@gmail.com
+// 04/01/2021 - 16:00h
+
 Function EmtDirectoryRecurse(cMascara,cAtributo)
   Local cPath  := "", cMask  := "", cExt   := ""
   Local aFiles := {}
